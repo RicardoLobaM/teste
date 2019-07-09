@@ -28,6 +28,14 @@
     <display-name lang="pt">PT-VIP: A BOLA TV</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
+    <channel id="ABolaTV.pt">
+    <display-name lang="pt">A BOLA TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+    <channel id="ABolaTV.pt">
+    <display-name lang="pt">PT: A BOLA TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
   <channel id="Canal Q">
     <display-name lang="pt">PT-VIP: Q</display-name>
     <icon src="https://www.meo.pt/PublishingImages/canais/q.png" />
@@ -154,7 +162,7 @@
     <display-name lang="pt">PT-VIP: CMTV</display-name>
     <url>http://www.nos.pt</url>
   </channel>
-  <channel id="sporttvmais.pt">
+  <channel id="SportTVplus.pt">
     <display-name lang="pt">PT-VIP: SPORT TV HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
@@ -184,6 +192,10 @@
   </channel>
   <channel id="sporttv2.pt">
     <display-name lang="pt">PT-VIP: SPORT TV 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sporttv2.pt">
+    <display-name lang="pt">PT-VIP: SPORT TV 2 HD [720P]</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="sporttv3.pt">
