@@ -59,6 +59,11 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=355&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
+  <channel id="CINEMUNDO">
+    <display-name lang="pt">|MEO|CINEMUNDO</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=355&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
   
   <channel id="SyFy.pt">
     <display-name lang="pt">SYFY</display-name>
