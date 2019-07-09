@@ -230,10 +230,20 @@
     <display-name lang="pt">TV SERIES</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  
   <channel id="hollywood.pt">
     <display-name lang="pt">HOLLYWOOD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+  <channel id="hollywood.pt">
+    <display-name lang="pt">|MEO| HOLLYWOOD HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="hollywood.pt">
+    <display-name lang="pt">|MEO| HOLLYWOOD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  
   <channel id="AXNBlack.pt">
     <display-name lang="pt">AXN BLACK</display-name>
     <url>http://www.nos.pt</url>
