@@ -24,7 +24,7 @@
     <icon src="https://www.meo.pt/PublishingImages/canais/tvi-ficcao.png" />
     <url>http://www.meo.pt</url>
   </channel>
-    <channel id="A BOLA TV">
+    <channel id="ABolaTV.pt">
     <display-name lang="pt">PT-VIP: A BOLA TV</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
