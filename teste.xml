@@ -113,7 +113,7 @@
     <url>http://www.meo.pt</url>
   </channel>
   <channel id="SPTV4K">
-    <display-name lang="pt">PT-VIP: SPORT TV 1 4K</display-name>
+    <display-name lang="pt">PT-VIP: SPORT TV 4K</display-name>
     <icon src="https://www.meo.pt/PublishingImages/canais/sport-tv-4k-uhd.png" />
     <url>http://www.meo.pt</url>
   </channel>
@@ -155,7 +155,7 @@
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="sporttvmais.pt">
-    <display-name lang="pt">PT-VIP: SPORT TV +</display-name>
+    <display-name lang="pt">PT-VIP: SPORT TV HD</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="sicmulher.pt">
@@ -172,6 +172,14 @@
   </channel>
   <channel id="sporttv1.pt">
     <display-name lang="pt">PT-VIP: SPORT TV 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sporttv1.pt">
+    <display-name lang="pt">PT-VIP: SPORT TV 1 HD [720P]</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="sporttv1.pt">
+    <display-name lang="pt">PT-VIP: SPORT TV 1 HD [540P]</display-name>
     <url>http://www.nos.pt</url>
   </channel>
   <channel id="sporttv2.pt">
