@@ -42,10 +42,16 @@
     <icon src="https://www.meo.pt/PublishingImages/canais/my-cuisine.png" />
     <url>http://www.meo.pt</url>
   </channel>
+  
   <channel id="DISCOVERY SHOWCASE HD">
     <display-name lang="pt">|MEO| DISCOVERY HD SHOWCASE</display-name>
     <url>http://www.nos.pt</url>
   </channel>
+    <channel id="DISCOVERY SHOWCASE HD">
+    <display-name lang="pt">|NOS| DISCOVERY HD SHOWCASE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  
   <channel id="MOTORVISION">
     <display-name lang="pt">|MEO| MOTORVISION</display-name>
     <url>http://www.nos.pt</url>
@@ -566,7 +572,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="MTV">
-    <display-name lang="pt">|MEO| MTV PORTUGAL HD</display-name>
+    <display-name lang="pt">|NOS| MTV PORTUGAL HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=38&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -698,7 +704,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="AMC">
-    <display-name lang="pt">|MEO| AMC HD</display-name>
+    <display-name lang="pt">|NOS| AMC HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=480&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
