@@ -304,12 +304,12 @@
     <url>http://www.vodafone.pt</url>
   </channel>
    <channel id="FOX CRIME">
-    <display-name lang="pt">|NOS| FOX CRIME HD </display-name>
+    <display-name lang="pt">|NOS| FOX CRIME HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=17&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="FOX CRIME">
-    <display-name lang="pt">|MEO| FOX CRIME HD </display-name>
+    <display-name lang="pt">|MEO| FOX CRIME HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=17&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
