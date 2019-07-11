@@ -133,6 +133,11 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=103&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel> 
+  <channel id="FOX LIFE">
+    <display-name lang="pt">|MEO| FOX LIFE HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=103&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
   <channel id="FOX COMEDY">
     <display-name lang="pt">|MEO| FOX COMEDY</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=105&amp;mime=true&amp;no_default=false" />
@@ -303,6 +308,11 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=17&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">|MEO| FOX CRIME HD </display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=17&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
   <channel id="FNEWS">
     <display-name lang="pt">|MEO| FOX NEWS</display-name>
     <icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/240px-Fox_News_Channel_logo.svg.png" />
@@ -325,6 +335,11 @@
   </channel>
   <channel id="FOX">
     <display-name lang="pt">|NOS| FOX HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=18&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">|MEO| FOX HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=18&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -638,6 +653,11 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=355&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
+   <channel id="CINEMUNDO">
+    <display-name lang="pt">|NOWO| CINEMUNDO HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=355&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
   <channel id="MCM TOP">
     <display-name lang="pt">|MEO| MCM TOP</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=356&amp;mime=true&amp;no_default=false" />
@@ -700,6 +720,11 @@
   </channel>
   <channel id="SIC K">
     <display-name lang="pt">|MEO| SIC KIDS</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=386&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+   <channel id="SIC K">
+    <display-name lang="pt">|MEO| SIC K</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=386&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -789,6 +814,11 @@
   </channel>
   <channel id="AXN BLACK">
     <display-name lang="pt">|MEO| AXN BLACK</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=45&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+  <channel id="AXN BLACK">
+    <display-name lang="pt">|MEO| AXN BLACK HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=45&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
