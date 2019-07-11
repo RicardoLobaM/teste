@@ -877,6 +877,11 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=473&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
+   <channel id="CacaVision.pt">
+    <display-name lang="pt">|MEO| CAÇAVISION</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=473&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
   <channel id="DISNEY CHANNEL">
     <display-name lang="pt">|MEO| DISNEY CHANNEL</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=48&amp;mime=true&amp;no_default=false" />
@@ -959,6 +964,11 @@
   </channel>
   <channel id="NBA HD">
     <display-name lang="pt">|MEO| NBA</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=519&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
+   <channel id="NBA HD">
+    <display-name lang="pt">|MEO| NBA TV</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=519&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -1391,7 +1401,7 @@
     <display-name lang="pt">PT VIP - A BOLA TV</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
-   <channel id="A BOLA TV">
+   <channel id="ABolaTV.pt">
     <display-name lang="pt">PT VIP - A Bola TV</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
@@ -1893,7 +1903,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=374&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="FIGHT NETWORK">
+  <channel id="FightNetwork">
     <display-name lang="pt">|NOWO| FIGHT SPORTS HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=374&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
