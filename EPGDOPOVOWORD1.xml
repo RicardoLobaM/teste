@@ -1397,7 +1397,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&chanid=42&mime=false&no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="A BOLA TV">
+  <channel id="ABolaTV.pt">
     <display-name lang="pt">PT VIP - A BOLA TV</display-name>
     <url>http://www.mag.sapo.pt</url>
   </channel>
@@ -1972,6 +1972,12 @@
     <display-name lang="pt">PT VIP - SPORT TV HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=407&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
+	</channel>
+	 <channel id="SportTVplus.pt">
+    <display-name lang="pt">|NOS| SPORT TV HD</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=407&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+	</channel>
   <channel id="MEZZO LIVE">
     <display-name lang="pt">PT VIP - MEZZO LIVE</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=409&amp;mime=true&amp;no_default=false" />
@@ -2002,7 +2008,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=45&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="AXN BLACK">
+  <channel id="AXNBlack.pt">
     <display-name lang="pt">PT VIP - AXN Black</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=45&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
@@ -2858,6 +2864,7 @@
     <display-name lang="pt">PT-VIP: SPORT TV HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=407&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
+	</channel>
   <channel id="MEZZO LIVE">
     <display-name lang="pt">MEZZO LIVE</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=409&amp;mime=true&amp;no_default=false" />
@@ -3739,6 +3746,7 @@
     <display-name lang="pt">PT-VIP: PT-VIP: SPORT TV HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=407&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
+	</channel>
   <channel id="MEZZO LIVE">
     <display-name lang="pt">PT-VIP: MEZZO LIVE</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=409&amp;mime=true&amp;no_default=false" />
