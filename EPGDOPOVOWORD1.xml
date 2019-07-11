@@ -6,12 +6,9 @@
   </channel>
    <channel id="TVGalicia.pt">
     <display-name lang="pt">|MEO| TV GALICIA</display-name>
-    <url>http://www.mag.sapo.pt</url>
   </channel>
    <channel id="SUNDANCE.pt">
     <display-name lang="pt">|NOS| SUNDANCE HD</display-name>
-    <url>http://www.mag.sapo.pt</url>
-	 <url>https://siptv.eu/codes</url>
   </channel>
   <channel id="CBS REALITY">
     <display-name lang="pt">|MEO| CBS REALITY</display-name>
