@@ -341,7 +341,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=159&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="ARTV">
+  <channel id="ARTV.pt">
     <display-name lang="pt">PT VIP - ARTV Parlamento"</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=16&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
