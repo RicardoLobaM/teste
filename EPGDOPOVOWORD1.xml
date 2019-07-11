@@ -863,18 +863,13 @@
     <url>http://www.vodafone.pt</url>
   </channel>
    <channel id="AXN">
-    <display-name lang="pt">|MEO| AXN HD</display-name>
+    <display-name lang="pt">|MEO| AXN HD1</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=47&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
   <channel id="TRACE TOCA">
     <display-name lang="pt">|MEO| TRACE TOCA</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=471&amp;mime=true&amp;no_default=false" />
-    <url>http://www.vodafone.pt</url>
-  </channel>
-  <channel id="CACAVISION">
-    <display-name lang="pt">|MEO| CAÇAVISION</display-name>
-    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=473&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
    <channel id="CacaVision.pt">
