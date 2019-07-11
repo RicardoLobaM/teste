@@ -863,7 +863,7 @@
     <url>http://www.vodafone.pt</url>
   </channel>
    <channel id="AXN">
-    <display-name lang="pt">|MEO| AXN HD1</display-name>
+    <display-name lang="pt">|MEO| AXN HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=47&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
@@ -1703,7 +1703,7 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-    <channel id="BENFICA TV">
+    <channel id="BenficaTV.pt">
     <display-name lang="pt">PT VIP - BTV</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=230&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
