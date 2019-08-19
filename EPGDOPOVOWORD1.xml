@@ -368,32 +368,32 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=193&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-   <channel id="Localvisao.pt">
+   <channel id="LOCALVISAO TV">
     <display-name lang="pt">|MEO| LOCALVISAO TV</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=194&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-     <channel id="Localvisao.pt">
+     <channel id="LOCALVISAO TV">
     <display-name lang="pt">|NOS| LOCALVISÃO TV HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=194&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="Localvisao.pt">
+  <channel id="LOCALVISAO TV">
     <display-name lang="pt">|MEO| LOCALVISAO TV</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=194&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="Localvisao.pt">
+  <channel id="LOCALVISAO TV">
     <display-name lang="pt">|MEO| LOCALVISÃO TV HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=194&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-  <channel id="Localvisao.pt">
+  <channel id="LOCALVISAO TV">
     <display-name lang="pt">|MEO| LOCALVISÃO TV HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=194&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
-    <channel id="Localvisao.pt">
+    <channel id="LOCALVISAO TV">
     <display-name lang="pt">|MEO| LOCALVISÃO TV</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=194&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
@@ -468,6 +468,11 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=23&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
+	 <channel id="TVCine1.pt">
+    <display-name lang="pt">|MEO| TVCINE 1</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=23&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
   <channel id="TVCINE 1">
     <display-name lang="pt">|NOS| TVCINE 1 HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=23&amp;mime=true&amp;no_default=false" />
@@ -533,6 +538,11 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=24&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
+	<channel id="TVCine2.pt>
+    <display-name lang="pt">|MEO| TVCINE 2</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=24&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>
   <channel id="TVCINE 2">
     <display-name lang="pt">|NOS| TVCINE 2 HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=24&amp;mime=true&amp;no_default=false" />
@@ -553,6 +563,11 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=25&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
+  <channel id="TVCine3.pt">
+    <display-name lang="pt">|MEO| TVCINE 3</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=25&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>																		    
   <channel id="TVCINE 3">
     <display-name lang="pt">|NOS| TVCINE 3 HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=25&amp;mime=true&amp;no_default=false" />
@@ -563,6 +578,11 @@
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=26&amp;mime=true&amp;no_default=false" />
     <url>http://www.vodafone.pt</url>
   </channel>
+  <channel id="TVCine4.pt">
+    <display-name lang="pt">|MEO| TVCINE 4</display-name>
+    <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=26&amp;mime=true&amp;no_default=false" />
+    <url>http://www.vodafone.pt</url>
+  </channel>																		   
   <channel id="TVCINE 4">
     <display-name lang="pt">|NOS| TVCINE 4 HD</display-name>
     <icon src="https://tvnetvoz.vodafone.pt/sempre-consigo/imgs?action=logo_channel_tablet_details&amp;chanid=26&amp;mime=true&amp;no_default=false" />
