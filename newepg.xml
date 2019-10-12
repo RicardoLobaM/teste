@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">PT - RTP 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="RTP 1">
+    <display-name lang="pt">PT - RTP 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">PT - RTP 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">PT - RTP 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">PT - RTP 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP AFRICA">
+    <display-name lang="pt">PT - RTP AFRICA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP MEMORIA">
+    <display-name lang="pt">PT - RTP MEMORIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP ACORES">
+    <display-name lang="pt">PT - RTP ACORES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP MADEIRA">
+    <display-name lang="pt">PT - RTP MADEIRA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC CARAS">
+    <display-name lang="pt">PT - SIC CARAS HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC CARAS">
+    <display-name lang="pt">PT - SIC CARAS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">PT - SIC HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">PT - SIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">PT - SIC MULHER HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">PT - SIC MULHER</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC NOTICIAS">
+    <display-name lang="pt">PT - SIC NOTICIAS HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">PT - SIC RADICAL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">PT - SIC RADICAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="SIC K">
+    <display-name lang="pt">PT - SIC K HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  </channel>
+    <channel id="SIC K">
+    <display-name lang="pt">PT - SIC K</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">PT - PORTO CANAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">PT - PORTO CANAL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL Q">
+    <display-name lang="pt">PT - CANAL Q</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TV RECORD">
+    <display-name lang="pt">PT - TV RECORD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">PT - TVI HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">PT - TVI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">PT - TVI 24</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI FICCAO">
+    <display-name lang="pt">PT - TVI FICCAO</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="pt">PT - TVE 24H</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="BENFICA TV">
+    <display-name lang="pt">PT - BTV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="pt">PT - BABY TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PANDA">
+    <display-name lang="pt">PT - CANAL PANDA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISNEY CHANNEL">
+    <display-name lang="pt">PT - DISNEY CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISNEY JUNIOR">
+    <display-name lang="pt">PT - DISNEY JÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¡NIOR</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="pt">PT - CARTOON NETWORK</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="JIM JAM">
+    <display-name lang="pt">PT - JIM JAM</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="BIGGS">
+    <display-name lang="pt">PT - BIGGS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="BBC ENTERTAINMENT">
+    <display-name lang="pt">BBC ENTERTAINMENT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="E! ENTERTAINMENT">
+    <display-name lang="pt">PT - E! ENTERTAINMENT HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="E! ENTERTAINMENT">
+    <display-name lang="pt">PT - E! ENTERTAINMENT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="GLOBO">
+    <display-name lang="pt">PT - GLOBO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">PT - AMC HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">PT - AMC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="AXN BLACK">
+    <display-name lang="pt">PT - AXN BLACK</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">PT - AXN HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN WHITE">
+    <display-name lang="pt">PT - AXN WHITE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="AXN BLACK">
+    <display-name lang="pt">PT - AXN BLACK HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">PT - AXN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN WHITE">
+    <display-name lang="pt">PT - AXN WHITE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="TVCINE 1">
+    <display-name lang="pt">PT - TV CINE 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 2">
+    <display-name lang="pt">PT - TV CINE 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 3">
+    <display-name lang="pt">PT - TV CINE 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 4">
+    <display-name lang="pt">PT - TV CINE 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+<channel id="FOX LIFE">
+    <display-name lang="pt">PT - FOX LIFE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="FOX LIFE">
+    <display-name lang="pt">PT - FOX LIFE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">PT - FOX CRIME HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">PT - FOX CRIME</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">PT - FOX COMEDY HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">PT - FOX COMEDY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">PT - FOX HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX MOVIES">
+    <display-name lang="pt">PT - FOX MOVIES HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="FOX MOVIES">
+    <display-name lang="pt">PT - FOX MOVIES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CINEMUNDO">
+    <display-name lang="pt">PT - CINEMUNDO HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>  
+  <channel id="SYFY">
+    <display-name lang="pt">PT - SYFY HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="pt">PT - SYFY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+</tv>
