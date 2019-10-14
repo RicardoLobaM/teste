@@ -1,0 +1,1517 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="RTP 1">
+    <display-name lang="pt">PT - RTP 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="RTP 1">
+    <display-name lang="pt">PT - RTP 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">PT - RTP 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">PT - RTP 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">PT - RTP 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP AFRICA">
+    <display-name lang="pt">PT - RTP AFRICA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP MEMORIA">
+    <display-name lang="pt">PT - RTP MEMORIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP ACORES">
+    <display-name lang="pt">PT - RTP ACORES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP MADEIRA">
+    <display-name lang="pt">PT - RTP MADEIRA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC CARAS">
+    <display-name lang="pt">PT - SIC CARAS HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC CARAS">
+    <display-name lang="pt">PT - SIC CARAS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">PT - SIC HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">PT - SIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">PT - SIC MULHER HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">PT - SIC MULHER</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC NOTICIAS">
+    <display-name lang="pt">PT - SIC NOTICIAS HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">PT - SIC RADICAL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">PT - SIC RADICAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="SIC K">
+    <display-name lang="pt">PT - SIC K HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  </channel>
+    <channel id="SIC K">
+    <display-name lang="pt">PT - SIC K</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">PT - PORTO CANAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">PT - PORTO CANAL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL Q">
+    <display-name lang="pt">PT - CANAL Q</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TV RECORD">
+    <display-name lang="pt">PT - TV RECORD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">PT - TVI HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">PT - TVI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">PT - TVI 24</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI FICCAO">
+    <display-name lang="pt">PT - TVI FICCAO</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="pt">PT - TVE 24H</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="BENFICA TV">
+    <display-name lang="pt">PT - BTV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="pt">PT - BABY TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PANDA">
+    <display-name lang="pt">PT - CANAL PANDA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISNEY CHANNEL">
+    <display-name lang="pt">PT - DISNEY CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISNEY JUNIOR">
+    <display-name lang="pt">PT - DISNEY JÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¡NIOR</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="pt">PT - CARTOON NETWORK</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="JIM JAM">
+    <display-name lang="pt">PT - JIM JAM</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="BIGGS">
+    <display-name lang="pt">PT - BIGGS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="BBC ENTERTAINMENT">
+    <display-name lang="pt">BBC ENTERTAINMENT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="E! ENTERTAINMENT">
+    <display-name lang="pt">PT - E! ENTERTAINMENT HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="E! ENTERTAINMENT">
+    <display-name lang="pt">PT - E! ENTERTAINMENT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="GLOBO">
+    <display-name lang="pt">PT - GLOBO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">PT - AMC HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">PT - AMC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="AXN BLACK">
+    <display-name lang="pt">PT - AXN BLACK</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">PT - AXN HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN WHITE">
+    <display-name lang="pt">PT - AXN WHITE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="AXN BLACK">
+    <display-name lang="pt">PT - AXN BLACK HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">PT - AXN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN WHITE">
+    <display-name lang="pt">PT - AXN WHITE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="TVCINE 1">
+    <display-name lang="pt">PT - TV CINE 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 2">
+    <display-name lang="pt">PT - TV CINE 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 3">
+    <display-name lang="pt">PT - TV CINE 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 4">
+    <display-name lang="pt">PT - TV CINE 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+<channel id="FOX LIFE">
+    <display-name lang="pt">PT - FOX LIFE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="FOX LIFE">
+    <display-name lang="pt">PT - FOX LIFE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">PT - FOX CRIME HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">PT - FOX CRIME</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">PT - FOX COMEDY HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">PT - FOX COMEDY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">PT - FOX HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX MOVIES">
+    <display-name lang="pt">PT - FOX MOVIES HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="FOX MOVIES">
+    <display-name lang="pt">PT - FOX MOVIES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CINEMUNDO">
+    <display-name lang="pt">PT - CINEMUNDO HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>  
+  <channel id="SYFY">
+    <display-name lang="pt">PT - SYFY HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="pt">PT - SYFY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="CNN">
+    <display-name lang="pt">PT - CNN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="SKY NEWS">
+    <display-name lang="pt">PT - SKY NEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="EURONEWS">
+    <display-name lang="pt">PT - EURONEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="EURONEWS">
+    <display-name lang="pt">PT - EURONEWS (A)</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BBC ENTERTAINMENT">
+    <display-name lang="pt">PT - BBC ENTERTAINMENT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="BBC WORLD">
+    <display-name lang="pt">PT - BBC WORLD NEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CBS REALITY">
+    <display-name lang="pt">PT - CBS REALITY</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="BLOOMBERG">
+    <display-name lang="pt">PT - BLOOMBERG</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DEUTSCHE WELLE">
+    <display-name lang="pt">PT - DEUTSCHE WELLE (A)</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DEUTSCHE WELLE">
+    <display-name lang="pt">PT - DEUTSCHE WELLE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FTV">
+    <display-name lang="pt">PT - FTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="ARTV">
+    <display-name lang="pt">PT - ARTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">PT - MTV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">PT - MTV PORTUGAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TRACE URBAN">
+    <display-name lang="pt">PT - TRACE URBAN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+ <channel id="TRACE TOCA">
+    <display-name lang="pt">PT - TRACE TOCA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="VH1">
+    <display-name lang="pt">PT - VH1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MEZZO">
+    <display-name lang="pt">PT - MEZZO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AFRO MUSIC">
+    <display-name lang="pt">PT - AFRO MUSIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MCM POP">
+    <display-name lang="pt">PT - MCM POP</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="MCM TOP">
+    <display-name lang="pt">PT - MCM TOP</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="HOLLYWOOD">
+    <display-name lang="pt">PT - HOLLYWOOD HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="HOLLYWOOD">
+    <display-name lang="pt">PT - HOLLYWOOD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CINEMUNDO">
+    <display-name lang="pt">PT - CINEMUNDO</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVSERIES">
+    <display-name lang="pt">PT - TV SERIES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="pt">PT - DISCOVERY CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="pt">PT - DISCOVERY HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CRIME INVESTIGATION">
+    <display-name lang="pt">PT - CRIME+ INVESTIGATION</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TRAVEL CHANNEL">
+    <display-name lang="pt">PT - TRAVEL CHANNEL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TRAVEL CHANNEL">
+    <display-name lang="pt">PT - TRAVEL CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ODISSEIA">
+    <display-name lang="pt">PT - ODISSEIA HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="ODISSEIA">
+    <display-name lang="pt">PT - ODISSEIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="HISTORIA">
+    <display-name lang="pt">PT - HISTORIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="24 KITCHEN">
+    <display-name lang="pt">PT - 24 KITCHEN HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="24 KITCHEN">
+    <display-name lang="pt">PT - 24 KITCHEN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="TLC">
+    <display-name lang="pt">PT - TLC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="A BOLA TV">
+    <display-name lang="pt">PT - A BOLA TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="KOMBAT SPORT">
+    <display-name lang="pt">PT - KOMBAT SPORT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="SPORTING TV">
+    <display-name lang="pt">PT - SPORTING TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="SPORTING TV">
+    <display-name lang="pt">PT - SPORTING TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FUEL TV">
+    <display-name lang="pt">PT - FUEL TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="EUROSPORT 1">
+    <display-name lang="pt">PT - EUROSPORT 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="EUROSPORT 2">
+    <display-name lang="pt">PT - EUROSPORT 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="EUROSPORT 1">
+    <display-name lang="pt">PT - EUROSPORT 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PT - PFC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">PT - CMTV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">PT - CMTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TOROS">
+    <display-name lang="pt">PT - TOROS TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 4K UHD">
+    <display-name lang="pt">PT - SPORT TV 4K UHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">PT - SPORT TV 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">PT - SPORT TV 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 3">
+    <display-name lang="pt">PT - SPORT TV 3 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV +">
+    <display-name lang="pt">PT - SPORT TV+ HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">PT - SPORT TV 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">PT - SPORT TV 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 3">
+    <display-name lang="pt">PT - SPORT TV 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 4">
+    <display-name lang="pt">PT - SPORT TV 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 5">
+    <display-name lang="pt">PT - SPORT TV 5</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV +">
+    <display-name lang="pt">PT - SPORT TV+</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="ELEVEN SPORTS 1">
+    <display-name lang="pt">PT - ELEVEN SPORTS 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 2">
+    <display-name lang="pt">PT - ELEVEN SPORTS 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 3">
+    <display-name lang="pt">PT - ELEVEN SPORTS 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 4">
+    <display-name lang="pt">PT - ELEVEN SPORTS 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NBA HD">
+    <display-name lang="pt">PT - NBA TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="RTP 1">
+    <display-name lang="pt">PT: RTP 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="RTP 1">
+    <display-name lang="pt">PT: RTP 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">PT: RTP 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">PT: RTP 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">PT: RTP 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP AFRICA">
+    <display-name lang="pt">PT: RTP AFRICA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP MEMORIA">
+    <display-name lang="pt">PT: RTP MEMORIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP ACORES">
+    <display-name lang="pt">PT: RTP ACORES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP MADEIRA">
+    <display-name lang="pt">PT: RTP MADEIRA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC CARAS">
+    <display-name lang="pt">PT: SIC CARAS HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC CARAS">
+    <display-name lang="pt">PT: SIC CARAS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">PT: SIC HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">PT: SIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">PT: SIC MULHER HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">PT: SIC MULHER</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC NOTICIAS">
+    <display-name lang="pt">PT: SIC NOTICIAS HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">PT: SIC RADICAL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">PT: SIC RADICAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="SIC K">
+    <display-name lang="pt">PT: SIC K HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  </channel>
+    <channel id="SIC K">
+    <display-name lang="pt">PT: SIC K</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">PT: PORTO CANAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">PT: PORTO CANAL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CANAL Q">
+    <display-name lang="pt">PT: CANAL Q</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TV RECORD">
+    <display-name lang="pt">PT: TV RECORD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">PT: TVI HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">PT: TVI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">PT: TVI 24</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI FICCAO">
+    <display-name lang="pt">PT: TVI FICCAO</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVE">
+    <display-name lang="pt">PT: TVE 24H</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="BENFICA TV">
+    <display-name lang="pt">PT: BTV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="pt">PT: BABY TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PANDA">
+    <display-name lang="pt">PT: CANAL PANDA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISNEY CHANNEL">
+    <display-name lang="pt">PT: DISNEY CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISNEY JUNIOR">
+    <display-name lang="pt">PT: DISNEY JÃƒÆ’Ã†â€™Ãƒâ€¦Ã‚Â¡NIOR</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="pt">PT: CARTOON NETWORK</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="JIM JAM">
+    <display-name lang="pt">PT: JIM JAM</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="BIGGS">
+    <display-name lang="pt">PT: BIGGS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="BBC ENTERTAINMENT">
+    <display-name lang="pt">BBC ENTERTAINMENT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="E! ENTERTAINMENT">
+    <display-name lang="pt">PT: E! ENTERTAINMENT HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="E! ENTERTAINMENT">
+    <display-name lang="pt">PT: E! ENTERTAINMENT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="GLOBO">
+    <display-name lang="pt">PT: GLOBO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">PT: AMC HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AMC">
+    <display-name lang="pt">PT: AMC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="AXN BLACK">
+    <display-name lang="pt">PT: AXN BLACK</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">PT: AXN HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN WHITE">
+    <display-name lang="pt">PT: AXN WHITE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="AXN BLACK">
+    <display-name lang="pt">PT: AXN BLACK HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="pt">PT: AXN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AXN WHITE">
+    <display-name lang="pt">PT: AXN WHITE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="TVCINE 1">
+    <display-name lang="pt">PT: TV CINE 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 2">
+    <display-name lang="pt">PT: TV CINE 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 3">
+    <display-name lang="pt">PT: TV CINE 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 4">
+    <display-name lang="pt">PT: TV CINE 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+<channel id="FOX LIFE">
+    <display-name lang="pt">PT: FOX LIFE HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="FOX LIFE">
+    <display-name lang="pt">PT: FOX LIFE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">PT: FOX CRIME HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">PT: FOX CRIME</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">PT: FOX COMEDY HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">PT: FOX COMEDY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">PT: FOX HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX MOVIES">
+    <display-name lang="pt">PT: FOX MOVIES HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="FOX MOVIES">
+    <display-name lang="pt">PT: FOX MOVIES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CINEMUNDO">
+    <display-name lang="pt">PT: CINEMUNDO HD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>  
+  <channel id="SYFY">
+    <display-name lang="pt">PT: SYFY HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="pt">PT: SYFY</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="CNN">
+    <display-name lang="pt">PT: CNN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="SKY NEWS">
+    <display-name lang="pt">PT: SKY NEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="EURONEWS">
+    <display-name lang="pt">PT: EURONEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="EURONEWS">
+    <display-name lang="pt">PT: EURONEWS (A)</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="BBC ENTERTAINMENT">
+    <display-name lang="pt">PT: BBC ENTERTAINMENT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="BBC WORLD">
+    <display-name lang="pt">PT: BBC WORLD NEWS</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CBS REALITY">
+    <display-name lang="pt">PT: CBS REALITY</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="BLOOMBERG">
+    <display-name lang="pt">PT: BLOOMBERG</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DEUTSCHE WELLE">
+    <display-name lang="pt">PT: DEUTSCHE WELLE (A)</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DEUTSCHE WELLE">
+    <display-name lang="pt">PT: DEUTSCHE WELLE</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FTV">
+    <display-name lang="pt">PT: FTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="ARTV">
+    <display-name lang="pt">PT: ARTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">PT: MTV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">PT: MTV PORTUGAL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TRACE URBAN">
+    <display-name lang="pt">PT: TRACE URBAN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+ <channel id="TRACE TOCA">
+    <display-name lang="pt">PT: TRACE TOCA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="VH1">
+    <display-name lang="pt">PT: VH1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MEZZO">
+    <display-name lang="pt">PT: MEZZO</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="AFRO MUSIC">
+    <display-name lang="pt">PT: AFRO MUSIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MCM POP">
+    <display-name lang="pt">PT: MCM POP</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="MCM TOP">
+    <display-name lang="pt">PT: MCM TOP</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="HOLLYWOOD">
+    <display-name lang="pt">PT: HOLLYWOOD HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="HOLLYWOOD">
+    <display-name lang="pt">PT: HOLLYWOOD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CINEMUNDO">
+    <display-name lang="pt">PT: CINEMUNDO</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="TVSERIES">
+    <display-name lang="pt">PT: TV SERIES</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="pt">PT: DISCOVERY CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="DISCOVERY CHANNEL">
+    <display-name lang="pt">PT: DISCOVERY HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CRIME INVESTIGATION">
+    <display-name lang="pt">PT: CRIME+ INVESTIGATION</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TRAVEL CHANNEL">
+    <display-name lang="pt">PT: TRAVEL CHANNEL HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TRAVEL CHANNEL">
+    <display-name lang="pt">PT: TRAVEL CHANNEL</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ODISSEIA">
+    <display-name lang="pt">PT: ODISSEIA HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="ODISSEIA">
+    <display-name lang="pt">PT: ODISSEIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="HISTORIA">
+    <display-name lang="pt">PT: HISTORIA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="24 KITCHEN">
+    <display-name lang="pt">PT: 24 KITCHEN HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="24 KITCHEN">
+    <display-name lang="pt">PT: 24 KITCHEN</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="TLC">
+    <display-name lang="pt">PT: TLC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="A BOLA TV">
+    <display-name lang="pt">PT: A BOLA TV</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="KOMBAT SPORT">
+    <display-name lang="pt">PT: KOMBAT SPORT</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="SPORTING TV">
+    <display-name lang="pt">PT: SPORTING TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="SPORTING TV">
+    <display-name lang="pt">PT: SPORTING TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FUEL TV">
+    <display-name lang="pt">PT: FUEL TV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="EUROSPORT 1">
+    <display-name lang="pt">PT: EUROSPORT 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="EUROSPORT 2">
+    <display-name lang="pt">PT: EUROSPORT 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="EUROSPORT 1">
+    <display-name lang="pt">PT: EUROSPORT 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">PT: PFC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">PT: CMTV HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="CMTV">
+    <display-name lang="pt">PT: CMTV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TOROS">
+    <display-name lang="pt">PT: TOROS TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 4K UHD">
+    <display-name lang="pt">PT: SPORT TV 4K UHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">PT: SPORT TV 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">PT: SPORT TV 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 3">
+    <display-name lang="pt">PT: SPORT TV 3 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV +">
+    <display-name lang="pt">PT: SPORT TV+ HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">PT: SPORT TV 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">PT: SPORT TV 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 3">
+    <display-name lang="pt">PT: SPORT TV 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 4">
+    <display-name lang="pt">PT: SPORT TV 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 5">
+    <display-name lang="pt">PT: SPORT TV 5</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV +">
+    <display-name lang="pt">PT: SPORT TV+</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="ELEVEN SPORTS 1">
+    <display-name lang="pt">PT: ELEVEN SPORTS 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 2">
+    <display-name lang="pt">PT: ELEVEN SPORTS 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 3">
+    <display-name lang="pt">PT: ELEVEN SPORTS 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="ELEVEN SPORTS 4">
+    <display-name lang="pt">PT: ELEVEN SPORTS 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NBA HD">
+    <display-name lang="pt">PT: NBA TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="RTP 1">
+    <display-name lang="pt">VIP PT - RTP 1 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="RTP 1">
+    <display-name lang="pt">VIP PT - RTP 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">VIP PT - RTP 2 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 2">
+    <display-name lang="pt">VIP PT - RTP 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">VIP PT - RTP 3 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP 3">
+    <display-name lang="pt">VIP PT - RTP 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP AFRICA">
+    <display-name lang="pt">VIP PT - RTP Africa</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP MEMORIA">
+    <display-name lang="pt">VIP PT - RTP Memoria</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP ACORES">
+    <display-name lang="pt">VIP PT - RTP Acores</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="RTP MADEIRA">
+    <display-name lang="pt">VIP PT - RTP Madeira</display-name>
+    <url>http://www.nos.pt</url>
+  </channel
+   <channel id="VH1">
+    <display-name lang="pt">VIP PT - VH1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="VH1 CLASSIC">
+    <display-name lang="pt">VIP PT - VH1 Classic</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVSERIES">
+    <display-name lang="pt">VIP PT - TVSeries FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="TVSERIES">
+    <display-name lang="pt">VIP PT - TVSeries</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="TVI REALITY">
+    <display-name lang="pt">VIP PT - TVI Reality</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+<channel id="TVI">
+    <display-name lang="pt">VIP PT - TVI FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="pt">VIP PT - TVI</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI 24">
+    <display-name lang="pt">VIP PT - TVI 24</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVI FICCAO">
+    <display-name lang="pt">VIP PT - TVI Ficcao</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>  
+<channel id="TVCINE 1">
+    <display-name lang="pt">VIP PT - TVCine 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 2">
+    <display-name lang="pt">VIP PT - TVCine 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 3">
+    <display-name lang="pt">VIP PT - TVCine 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 4">
+    <display-name lang="pt">VIP PT - TVCine 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+<channel id="TVCINE 1">
+    <display-name lang="pt">VIP PT - TVCine 1 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 2">
+    <display-name lang="pt">VIP PT - TVCine 2 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 3">
+    <display-name lang="pt">VIP PT - TVCine 3 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TVCINE 4">
+    <display-name lang="pt">VIP PT - TVCine 4 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+    <channel id="TV RECORD">
+    <display-name lang="pt">VIP PT - TV Record FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="GLOBO">
+    <display-name lang="pt">VIP PT - TV Globo FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+    <channel id="GLOBO">
+    <display-name lang="pt">VIP PT - TV Globo</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="GLOBO NOW">
+    <display-name lang="pt">VIP PT - TV Globo NOW</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="TRAVEL CHANNEL">
+    <display-name lang="pt">VIP PT - Travel Channel FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+   <channel id="TRACE URBAN">
+    <display-name lang="pt">VIP PT - Trace&Urban</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="TRACE TOCA">
+    <display-name lang="pt">VIP PT - Trace Toca</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="TOROS">
+    <display-name lang="pt">VIP PT - Toros TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+   <channel id="TLC">
+    <display-name lang="pt">VIP PT - TLC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>   
+   <channel id="SYFY">
+    <display-name lang="pt">VIP PT - SyFy FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="pt">VIP PT - SyFy</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+ <channel id="SPORTING TV">
+    <display-name lang="pt">VIP PT - Sporting TV FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+<channel id="SPORTING TV">
+    <display-name lang="pt">VIP PT - Sporting TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">VIP PT - Sport TV 1</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">VIP PT - Sport TV 1 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">VIP PT - Sport TV 1 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 1">
+    <display-name lang="pt">VIP PT - Sport TV 1 HD (Low)</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">VIP PT - Sport TV 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">VIP PT - Sport TV 2 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">VIP PT - Sport TV 2 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 2">
+    <display-name lang="pt">VIP PT - Sport TV 2 HD (Low)</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 3">
+    <display-name lang="pt">VIP PT - Sport TV 3</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 3">
+    <display-name lang="pt">VIP PT - Sport TV 3 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 3">
+    <display-name lang="pt">VIP PT - Sport TV 3 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 4">
+    <display-name lang="pt">VIP PT - Sport TV 4</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 4">
+    <display-name lang="pt">VIP PT - Sport TV 4 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 4">
+    <display-name lang="pt">VIP PT - Sport TV 4 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SPORT TV 5">
+    <display-name lang="pt">VIP PT - Sport TV 5</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="SPORT TV 5">
+    <display-name lang="pt">VIP PT - Sport TV 5 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>   
+  <channel id="SPORT TV 5">
+    <display-name lang="pt">VIP PT - Sport TV 5 HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>   
+  <channel id="SPORT TV +">
+    <display-name lang="pt">VIP PT - Sport TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="SPORT TV +">
+    <display-name lang="pt">VIP PT - Sport TV FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>   
+   <channel id="SKY NEWS">
+    <display-name lang="pt">VIP PT - Sky News</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+<channel id="SIC CARAS">
+    <display-name lang="pt">VIP PT - SIC Caras FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC CARAS">
+    <display-name lang="pt">VIP PT - SIC Caras</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">VIP PT - SIC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC">
+    <display-name lang="pt">VIP PT - SIC FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">VIP PT - SIC Mulher FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC MULHER">
+    <display-name lang="pt">VIP PT - SIC Mulher</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC NOTICIAS">
+    <display-name lang="pt">VIP PT - SIC Noticias FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC NOTICIAS">
+    <display-name lang="pt">VIP PT - SIC Noticias</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">VIP PT - SIC Radical FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="SIC RADICAL">
+    <display-name lang="pt">VIP PT - SIC Radical</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+    <channel id="SIC K">
+    <display-name lang="pt">VIP PT - Sic Kids</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">VIP PT - Porto Canal FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PORTO CANAL">
+    <display-name lang="pt">VIP PT - Porto Canal</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="PFC">
+    <display-name lang="pt">VIP PT - PFC</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="PANDA">
+    <display-name lang="pt">VIP PT - Panda Biggs</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+    <channel id="ODISSEIA">
+    <display-name lang="pt">VIP PT - Odisseia FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="ODISSEIA">
+    <display-name lang="pt">VIP PT - Odisseia</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="NOS STUDIOS">
+    <display-name lang="pt">VIP PT - NOS Studios FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+   <channel id="NOS STUDIOS">
+    <display-name lang="pt">VIP PT - NOS Studios</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+   <channel id="NICKELODEON">
+    <display-name lang="pt">VIP PT - Nickelodeon</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="NICK JR">
+    <display-name lang="pt">VIP PT - Nick JR.</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="NBA HD">
+    <display-name lang="pt">VIP PT - NBA FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="NBA HD">
+    <display-name lang="pt">VIP PT - NBA</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="NAT GEO WILD">
+    <display-name lang="pt">VIP PT - Nat Geo Wild FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+ <channel id="NAT GEO WILD">
+    <display-name lang="pt">VIP PT - Nat Geo Wild</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="NATIONAL GEOGRAPHIC">
+    <display-name lang="pt">VIP PT - Nat Geo FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="NATIONAL GEOGRAPHIC">
+    <display-name lang="pt">VIP PT - Nat Geo</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>    
+   <channel id="MY CUISINE">
+    <display-name lang="pt">VIP PT - My Cuisinne</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel> 
+  <channel id="MTV">
+    <display-name lang="pt">VIP PT - MTV Portugal FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="MTV">
+    <display-name lang="pt">VIP PT - MTV Portugal</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="MOTORVISION">
+    <display-name lang="pt">VIP PT - Motorvision</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="MEZZO">
+    <display-name lang="pt">VIP PT - Mezzo</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="MCM POP">
+    <display-name lang="pt">VIP PT - MCM Pop</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="MCM TOP">
+    <display-name lang="pt">VIP PT - MCM Top</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="LUXE TV">
+    <display-name lang="pt">VIP PT - Luxe.TV FHD</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>
+  <channel id="LOCALVISAO TV">
+    <display-name lang="pt">VIP PT - LocalVisao HD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="KOMBAT SPORT">
+    <display-name lang="pt">VIP PT - Kombat Sport</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+ <channel id="JIM JAM">
+    <display-name lang="pt">VIP PT - Jim Jam</display-name>
+    <url>http://www.mag.sapo.pt</url>
+  </channel>  
+  <channel id="ID INVESTIGATION DISCOVERY">
+    <display-name lang="pt">VIP PT - ID Investigation Discovery FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="ICONCERTS">
+    <display-name lang="pt">VIP PT - IConcerts FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+   <channel id="HOLLYWOOD">
+    <display-name lang="pt">VIP PT - Hollywood FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="HOLLYWOOD">
+    <display-name lang="pt">VIP PT - Hollywood</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="FUEL TV">
+    <display-name lang="pt">VIP PT - Fuel TV FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>  
+  <channel id="FUEL TV">
+    <display-name lang="pt">VIP PT - Fuel TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>    
+ <channel id="FOX LIFE">
+    <display-name lang="pt">VIP PT - Fox Life FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+ <channel id="FOX LIFE">
+    <display-name lang="pt">VIP PT - Fox Life</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">VIP PT - Fox Crime FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX CRIME">
+    <display-name lang="pt">VIP PT - Fox Crime</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">VIP PT - Fox Comedy</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX COMEDY">
+    <display-name lang="pt">VIP PT - Fox Comedy FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="pt">VIP PT - Fox FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="FOX MOVIES">
+    <display-name lang="pt">VIP PT - Fox Movies FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="FOX MOVIES">
+    <display-name lang="pt">VIP PT - Fox Movies</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+   <channel id="FOOD NETWORK">
+    <display-name lang="pt">VIP PT - Food Network FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="FINE LIVING NETWORK HD">
+    <display-name lang="pt">VIP PT - Fine Living Network FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+   <channel id="FIGHT NETWORK">
+    <display-name lang="pt">VIP PT - Fight Network FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="FTV">
+    <display-name lang="pt">VIP PT - Fashion TV</display-name>
+    <url>http://www.nos.pt</url>
+  </channel> 
+  <channel id="EUROSPORT 1">
+    <display-name lang="pt">VIP PT - Eurosport 1 FHD</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+  <channel id="EUROSPORT 2">
+    <display-name lang="pt">VIP PT - Eurosport 2</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+   <channel id="EURONEWS">
+    <display-name lang="pt">VIP PT - Euronews</display-name>
+    <url>http://www.nos.pt</url>
+  </channel>
+</tv>
